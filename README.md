@@ -1,4 +1,4 @@
-# Foundation Model Driven Land Cover Mapping: Enhancing High-Resolution Mapping with Low-Resolution Guidance
+# Low-resolution Prior Informed Foundation Model for High-resolution Land Cover Mapping
 
 <p align="center">
     <img src="All.png" style="max-width: 100%; height: auto;"/>
